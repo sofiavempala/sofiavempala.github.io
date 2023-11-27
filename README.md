@@ -1,1 +1,3 @@
-# sofiavempala.github.io
+# sofiavempala
+
+My name is Sofia A. Vempala
